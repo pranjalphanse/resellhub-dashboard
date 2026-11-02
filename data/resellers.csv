@@ -1,0 +1,61 @@
+reseller_id,first_name,last_name,region,join_date
+R001,Anita,Reddy,North,2026-05-04
+R002,Hema,Joshi,SOUTH ,2026-05-05
+R003,Anita,Nair,east  ,2026-04-24
+R004,Omkar,Reddy,West,2026-04-26
+R005,Lata,Bose,NORTH,2026-06-17
+R006,Girish,Gupta,South,2026-06-25
+R007,Jaya,Joshi,east  ,2026-02-20
+R008,Lata,Sharma,WEST,2026-04-18
+R009,Manoj,Khan, north,2026-02-08
+R010,Chetan,Sharma, south,2026-06-17
+R011,Lata,Sharma, EAST,2026-03-24
+R012,Hema,Nair,WEST,2026-01-13
+R013,Hema,Joshi,north ,2026-04-14
+R014,Manoj,Das,SOUTH ,2026-04-16
+R015,Omkar,Nair, EAST,2026-06-27
+R016,Girish,Bose,west ,2026-05-18
+R017,Lata,Patel,NORTH,2026-06-04
+R018,Jaya,Menon,SOUTH ,2026-03-16
+R019,Manoj,Gupta,East,2026-06-22
+R020,Omkar,Joshi,West,2026-04-17
+R021,Anita,Bose, north,2026-05-19
+R022,Neha,Joshi,SOUTH ,2026-02-19
+R023,Eshan,Bose,East,2026-05-05
+R024,Girish,Nair,west ,2026-02-14
+R025,Irfan,Joshi, north,2026-04-20
+R026,Jaya,Gupta,South,2026-03-01
+R027,Manoj,Nair,east  ,2026-06-04
+R028,Lata,Das,WEST,2026-06-22
+R029,Irfan,Khan,NORTH,2026-06-11
+R030,Hema,Sharma, south,2026-02-12
+R031,Girish,Pillai, EAST,2026-01-08
+R032,Omkar,Sharma,west ,2026-06-19
+R033,Farida,Reddy,north ,2026-04-04
+R034,Hema,Patel,SOUTH ,2026-06-09
+R035,Manoj,Menon,East,2026-01-19
+R036,Irfan,Yadav,WEST,2026-06-13
+R037,Girish,Patel,North,2026-06-15
+R038,Hema,Joshi,South,2026-06-14
+R039,Irfan,Nair,East,2026-06-22
+R040,Manoj,Patel,WEST,2026-02-02
+R041,Farida,Reddy,North,2026-01-07
+R042,Manoj,Reddy, south,2026-05-11
+R043,Farida,Joshi, EAST,2026-03-26
+R044,Hema,Menon,WEST,2026-04-03
+R045,Irfan,Joshi,north ,2026-02-08
+R046,Anita,Gupta,South,2026-06-18
+R047,Lata,Das,East,2026-04-12
+R048,Anita,Patel,WEST,2026-06-26
+R049,Neha,Bose,NORTH,2026-04-02
+R050,Neha,Sharma,SOUTH ,2026-03-15
+R051,Irfan,Pillai,east  ,2026-05-08
+R052,Kiran,Joshi,west ,2026-06-10
+R053,Lata,Nair, north,2026-05-24
+R054,Deepa,Yadav, south,2026-04-26
+R055,Omkar,Reddy,East,2026-04-02
+R056,Jaya,Menon,West,2026-03-16
+R057,Eshan,Reddy,north ,2026-05-21
+R058,Neha,Sharma,South,2026-05-03
+R059,Bhavna,Reddy,east  ,2026-05-17
+R060,Bhavna,Sharma,WEST,2026-05-26
